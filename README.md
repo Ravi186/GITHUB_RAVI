@@ -1,4 +1,4 @@
 # GITHUB_RAVI
-Thes is my new folder
+we call call repostry form of "folder"
 <br>
 github is webservice to run vertualy
